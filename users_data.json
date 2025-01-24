@@ -1,0 +1,40 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Jules Dupont",
+      "balance": 10.0,
+      "role": "teacher"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "balance": 0,
+      "role": "teacher"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "balance": 50.0,
+      "role": "administration"
+    },
+    {
+      "id": 4,
+      "name": "Diana Evans",
+      "balance": 8.1,
+      "role": "student"
+    },
+    {
+      "id": 5,
+      "name": "Eve Clark",
+      "balance": 0.5,
+      "role": "teacher"
+    },
+    {
+      "id": 6,
+      "name": "Mateus FARIAS FREIRE",
+      "balance": 11.0,
+      "role": "student"
+    }
+  ]
+}
